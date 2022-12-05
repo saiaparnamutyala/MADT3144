@@ -1,0 +1,3 @@
+C:\Users\DELL\source\repos\madt\madt\obj\Debug\madt.njsproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\madt\madt\obj\Debug\madt.njsproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\madt\madt\bin\Microsoft.NodejsTools.WebRole.dll
